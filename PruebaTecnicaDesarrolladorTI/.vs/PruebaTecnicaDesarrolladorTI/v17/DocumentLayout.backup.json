@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\PruebaComisariato\\PruebaTecnicaDesarrolladorTI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB312B9-DBEE-408D-ADB0-560C9576C760}|PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI.csproj|c:\\users\\usuario\\desktop\\pruebacomisariato\\pruebatecnicadesarrolladorti\\pruebatecnicadesarrolladorti\\controllers\\impl\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB312B9-DBEE-408D-ADB0-560C9576C760}|PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI.csproj|solutionrelative:pruebatecnicadesarrolladorti\\controllers\\impl\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB312B9-DBEE-408D-ADB0-560C9576C760}|PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI.csproj|c:\\users\\usuario\\desktop\\pruebacomisariato\\pruebatecnicadesarrolladorti\\pruebatecnicadesarrolladorti\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB312B9-DBEE-408D-ADB0-560C9576C760}|PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI.csproj|solutionrelative:pruebatecnicadesarrolladorti\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB312B9-DBEE-408D-ADB0-560C9576C760}|PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI.csproj|c:\\users\\usuario\\desktop\\pruebacomisariato\\pruebatecnicadesarrolladorti\\pruebatecnicadesarrolladorti\\services\\impl\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB312B9-DBEE-408D-ADB0-560C9576C760}|PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI.csproj|solutionrelative:pruebatecnicadesarrolladorti\\services\\impl\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PruebaComisariato\\PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI\\Services\\impl\\ProductService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaDesarrolladorTI\\Services\\impl\\ProductService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PruebaComisariato\\PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI\\Services\\impl\\ProductService.cs",
+              "RelativeToolTip": "PruebaTecnicaDesarrolladorTI\\Services\\impl\\ProductService.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAmwDQBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T01:58:36.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PruebaComisariato\\PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI\\Models\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaDesarrolladorTI\\Models\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PruebaComisariato\\PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI\\Models\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "PruebaTecnicaDesarrolladorTI\\Models\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T01:58:03.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PruebaComisariato\\PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI\\Controllers\\impl\\ProductController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaDesarrolladorTI\\Controllers\\impl\\ProductController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PruebaComisariato\\PruebaTecnicaDesarrolladorTI\\PruebaTecnicaDesarrolladorTI\\Controllers\\impl\\ProductController.cs",
+              "RelativeToolTip": "PruebaTecnicaDesarrolladorTI\\Controllers\\impl\\ProductController.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAcwGsBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T01:57:59.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

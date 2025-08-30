@@ -1,0 +1,15 @@
+Implementar un CRUD sencillo de 'Productos' con autenticación JWT.
+- Endpoints: login, registro, crear producto, listar productos, actualizar, eliminar.
+- Base de datos: PostgreSQL.
+- ORM: EntityFramework
+- Incluir validaciones básicas y manejo de errores.
+
+
+Caracteristicas de la solucion
+- Debe manejarse mediante la organizacion "contract first/ Top Down". En la que dispone de 3 capas: Controller, Service, Repository
+- Cada capa debe tener subcapas: contract e impl, los contract son interfaces o denoninados contratos y los impl son la implematacion del contratos
+- Resaltar que hay que documentar el codigo mediante comentarios con formato XML
+- Manejos de logs
+- Controller: debe realizar manejo de respuestas
+- Service: debe realizar validaciones de la logica de negocio
+- Repository: debe realizar la capa con acceso a datos
